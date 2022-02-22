@@ -6,7 +6,7 @@
 <a href="https://stackoverflow.com/users/18281573/empathy">
   <img align="left" alt="Empaathy's Stack Overflow" width="24px" src="https://github.com/Empaathy/Empaathy/blob/main/stack-overflow.png" />
 </a>
-<a href="https://www.facebook.com/ZamranxD">
+<a href="https://github.com/Empaathy/Empaathy">
   <img align="left" alt="Empaathy's GitHub" width="24px" src="https://github.com/Empaathy/Empaathy/blob/main/github.png" />
 </a>
 <br>
