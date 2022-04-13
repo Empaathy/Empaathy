@@ -20,9 +20,8 @@ Hi there 👋, I'm **Geoffrey Vercaemer**, a **Web Developer** 🚀 from Lille, 
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently looking for a apprenticeship.
-- 🌱 I’m currently exploring JavaScript with a big interest in Web Scraping and Game development. 
-- 💼 I’d just purchase a Bachelor's degree in Web Development at Wild Code School.
+- 🌱 I’m currently exploring JavaScript with a big interest in Web Scraping.
+- 💼 I’m purchasing a Bachelor's degree in Web Development at ISCOD.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [geoffrey.vercaemer@gmail.com](mailto:geoffrey.vercaemer@gmail.com).
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1A54kyujpny_lMLgCQu_1y0cIown3AQQB/view?usp=sharing) to get more info.
